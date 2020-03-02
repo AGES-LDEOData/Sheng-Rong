@@ -1,11 +1,12 @@
 {
     "Ar36": {
-        "error": 1.0781822217788437,
+        "error": 1.0781822217788433,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -15,7 +16,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 118.67777655638176
+        "value": 118.6777765563817
     },
     "Ar37": {
         "error": 2.955967091376018e-07,
@@ -24,6 +25,7 @@
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -36,12 +38,13 @@
         "value": 5.1703056739146245e-06
     },
     "Ar38": {
-        "error": 4.366965724518834e-07,
+        "error": 4.366965724518833e-07,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -60,6 +63,7 @@
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -72,12 +76,13 @@
         "value": -4.074821868217314e-06
     },
     "Ar40": {
-        "error": 2.8751738715471615e-06,
+        "error": 2.8751738715471623e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -87,6 +92,6 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0005471783834286487
+        "value": 0.0005471783834286485
     }
 }
